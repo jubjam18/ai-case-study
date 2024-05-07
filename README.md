@@ -12,9 +12,17 @@ Exxon Corporation was founded by John D. Rockefeller and his associates precisel
 * Who are the founders of the company? John D. Rockefeller founded ExxonMobil.
 As per AI projects, ExxonMobil is leveraging artificial intelligence in various sectors of its upstream and downstream operations; including drilling operation optimization, equipment's predictive maintenance, refinery processes improvements and supply chain management enhancement.  
 
-* How did the idea for the company (or project) come about?  
+* How did the idea for the company (or project) come about?
+  The idea for the ExxonMobil AI project likely arose from a recognition of AI's transformative potential in optimizing processes, improving decision-making, and driving innovation in 
+  the energy sector. It emerged from a combination of internal acknowledgment of AI's benefits and external trends in technology and industry, reflecting ExxonMobil's commitment to 
+  efficiency, productivity, safety, and sustainability.
 
 * How is ExxonMobil funded? How much funding have ExxonMobil received?
+  ExxonMobil is primarily funded through its operations, which involve the exploration, production, refining, and distribution of oil, gas, and related products. The company generates 
+  revenue through the sale of these products as well as through other activities such as petrochemical manufacturing and marketing. Additionally, ExxonMobil may raise funds through debt 
+  financing or equity financing, issuing bonds or stocks to investors.
+
+As for the specific amount of funding ExxonMobil has received, it's difficult to provide an exact figure without more context. ExxonMobil is a publicly traded company, so its financial information is available in its annual reports, financial statements, and other regulatory filings. These documents would detail the company's revenue, profits, expenses, and any financing activities. However, funding received would not typically be quantified as a single figure but rather broken down into various sources such as revenue from operations, debt issuance, or equity sales.
 
 ## Business Activities
 
