@@ -1,6 +1,6 @@
 # ai-case-study
 AI Bootcamp first case study
-# TITLE
+# TITLE: ExxonMobil AI
 
 ## Overview and Origin of ExxonMobil
 Exxon Corporation was founded by John D. Rockefeller and his associates precisely in 1882 under the Standard Oil Company of New Jersey, while Mobil Corporation was founded in 1911 as the Standard Oil Company of New York by the Standard Oil Company. However, ExxonMobil was formed through Exxon Corporation and Mobil Corporation merger. [1] 
@@ -33,21 +33,27 @@ ExxonMobil utilizes a range of technologies across its operations, including adv
 
 ExxonMobil employs a diverse array of technologies across its operations to enhance efficiency, safety, and sustainability. ExxonMobil's strategic use of technology enhances its competitive advantage, fosters operational excellence, and positions the company for long-term success in the dynamic energy industry landscape.
 
-Here's a summary of the key technologies it utilizes and how they are implemented:
+### Here's a summary of the key technologies it utilizes and how they are implemented:
 
-Advanced Seismic Imaging:
-ExxonMobil utilizes cutting-edge seismic imaging technologies, including 3D and 4D seismic, to identify and evaluate potential hydrocarbon reserves beneath the Earth's surface. These technologies enable more accurate geological mapping and reservoir characterization, improving the success rate of exploration activities.
-Drilling Technologies: 
+* Advanced Seismic Imaging:
+ExxonMobil utilizes advanced 3D and 4D seismic imaging technologies, to identify and evaluate potential hydrocarbon reserves beneath the Earth's surface. These technologies enable more accurate geological mapping and reservoir characterization; improving the success rate of exploration activities.
+
+* Drilling Technologies: 
 In drilling operations, ExxonMobil implements advanced techniques such as directional drilling and hydraulic fracturing (fracking) to access oil and gas reservoirs more effectively. These technologies allow for precise well placement and enhanced recovery rates, optimizing production levels.
-Refining Process Optimization:
+
+* Refining Process Optimization:
 Within refining facilities, ExxonMobil employs sophisticated process control systems and optimization algorithms to maximize yields, minimize energy consumption, and produce higher-quality petroleum products. Catalyst technologies are also utilized to improve the efficiency of refining processes, reducing environmental impact.
-Supply Chain Management Software: 
+
+* Supply Chain Management Software: 
 ExxonMobil utilizes state-of-the-art supply chain management software to optimize logistics, inventory management, and distribution networks. These technologies enable real-time monitoring of inventory levels, demand forecasting, and efficient transportation planning, ensuring timely delivery of products to customers while minimizing costs.
-Health, Safety, and Environmental Technologies:
+
+* Health, Safety, and Environmental Technologies:
 To ensure the safety of its operations and mitigate environmental risks, ExxonMobil utilizes a range of technologies, including data analytics, IoT sensors, and predictive maintenance systems. These tools help identify and address potential hazards, enhance asset integrity, and ensure compliance with regulatory standards.
-Digitalization and Data Analytics:
+
+* Digitalization and Data Analytics:
 ExxonMobil is investing in digitalization initiatives, leveraging big data analytics, machine learning, and AI to derive insights from operational data. These technologies enable predictive maintenance, process optimization, and improved decision-making, driving operational efficiency and innovation across the organization.
-Renewable Energy and Low-Carbon Technologies:
+
+ *Renewable Energy and Low-Carbon Technologies:
 While primarily focused on conventional oil and gas operations, ExxonMobil is exploring technologies related to renewable energy, carbon capture and storage (CCS), and low-carbon fuels. These efforts align with its commitment to addressing climate change and diversifying its energy portfolio for a sustainable future.
 
 ## Landscape
@@ -75,17 +81,23 @@ ExxonMobil Core metrics for measuring success in the industry include production
 
 ExxonMobil remains a significant player in the oil and gas industry, but its performance relative to competitors is mixed across various aspects:
 
-Financial Performance: Historically, ExxonMobil has been a leader in terms of revenue and profitability, but recent years have seen some challenges impacting its financial metrics compared to competitors.
-Production and Reserves: ExxonMobil typically ranks among the top companies globally in production and reserves, but competitors like Shell, Chevron, BP, and Total Energies also have substantial capacities.
-Technological Innovation: ExxonMobil invests significantly in Research & Development, driving innovations in exploration, production, and refining; but competitors also prioritize innovation, developing technologies for efficient operations and exploring alternative energy sources.
-Sustainability Efforts: ExxonMobil faces scrutiny for its environmental practices, while competitors like Shell and Total Energies have made substantial commitments to sustainability and reducing emissions.
+Financial Performance:
+Historically, ExxonMobil has been a leader in terms of revenue and profitability, but recent years have seen some challenges impacting its financial metrics compared to competitors.
+
+Production and Reserves:
+ExxonMobil typically ranks among the top companies globally in production and reserves, but competitors like Shell, Chevron, BP, and Total Energies also have substantial capacities.
+
+Technological Innovation:
+ExxonMobil invests significantly in Research & Development, driving innovations in exploration, production, and refining; but competitors also prioritize innovation, developing technologies for efficient operations and exploring alternative energy sources.
+
+Sustainability Efforts:
+ExxonMobil faces scrutiny for its environmental practices, while competitors like Shell and Total Energies have made substantial commitments to sustainability and reducing emissions.
 
 
 ## Recommendations
 
 * If you were to advise ExxonMobil, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!).
 Based on the increasing emphasis on renewable energy and sustainability, ExxonMobil could consider expanding its portfolio to include more investments in renewable energy sources such as wind, solar, and biofuels. 
-
 
 * Why do you think that offering this product or service would benefit ExxonMobil?
 It will diversify ExxonMobil revenue streams and align with evolving consumer preferences and regulatory trends towards cleaner energy.
