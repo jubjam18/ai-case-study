@@ -121,4 +121,4 @@ They are appropriate as they would position ExxonMobil to capture opportunities 
 [3] https://corporate.exxonmobil.com/
 [4] https://www.google.com/finance/quote/XOM:NYSE?hl=en
 [5] https://en.wikipedia.org/wiki/ExxonMobil
-[6[ https://jpt.spe.org/how-predictive-maintenance-is-cutting-back-on-costs-and-injuries-for-the-oil-and-gas-industry
+[6] https://jpt.spe.org/how-predictive-maintenance-is-cutting-back-on-costs-and-injuries-for-the-oil-and-gas-industry
