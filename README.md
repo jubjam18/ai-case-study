@@ -8,21 +8,21 @@ Exxon Corporation was founded by John D. Rockefeller and his associates precisel
 * Name of company: EXXONMOBIL
 
 * When was the ExxonMobil incorporated? It was incorporated on November 30, 1999.
+  ExxonMobil traces its roots to Vacuum Oil Company, founded in 1866. Vacuum Oil later was acquired by Standard Oil in 1879, divested from Standard in 1911 with its breakup, and merged by the Standard Oil Company of New York, later known as Mobil, in 1931. After the 1911 breakup, Standard Oil continued to exist through its New Jersey subsidiary, sometimes shortened to Jersey Standard, and retained the Standard Oil name in much of the eastern United States. Jersey Standard grew by acquiring Humble Oil in the 1930s and became the dominant oil company on the world stage. The company's lack of ownership over the Standard Oil name across the United States, however, prompted a name change to unify all of its brands under one name, choosing to name itself Exxon in 1972 over continuing to use three distinct brands of Esso, Enco, and Humble.
 
 * Who are the founders of the company? John D. Rockefeller founded ExxonMobil.
 As per AI projects, ExxonMobil is leveraging artificial intelligence in various sectors of its upstream and downstream operations; including drilling operation optimization, equipment's predictive maintenance, refinery processes improvements and supply chain management enhancement.  
 
 * How did the idea for the company (or project) come about?
-  The idea for the ExxonMobil AI project likely arose from a recognition of AI's transformative potential in optimizing processes, improving decision-making, and driving innovation in 
-  the energy sector. It emerged from a combination of internal acknowledgment of AI's benefits and external trends in technology and industry, reflecting ExxonMobil's commitment to 
-  efficiency, productivity, safety, and sustainability.
+  The idea for the ExxonMobil AI project likely arose from a recognition of AI's transformative potential in optimizing processes, improving decision-making, and driving innovation in the energy sector. It emerged from a combination of internal acknowledgment of AI's benefits and external trends in technology and industry, reflecting ExxonMobil's commitment to efficiency, productivity, safety, and sustainability.
 
 * How is ExxonMobil funded? How much funding have ExxonMobil received?
-  ExxonMobil is primarily funded through its operations, which involve the exploration, production, refining, and distribution of oil, gas, and related products. The company generates 
-  revenue through the sale of these products as well as through other activities such as petrochemical manufacturing and marketing. Additionally, ExxonMobil may raise funds through debt 
-  financing or equity financing, issuing bonds or stocks to investors.
+  ExxonMobil is primarily funded through its operations, which involve the exploration, production, refining, and   
+  distribution of oil, gas, and related products. The company generates revenue through the sale of these products 
+  as well as through other activities such as petrochemical manufacturing and marketing. Additionally, ExxonMobil 
+  may raise funds through debt financing or equity financing, issuing bonds or stocks to investors.
 
-As for the specific amount of funding ExxonMobil has received, it's difficult to provide an exact figure without more context. ExxonMobil is a publicly traded company, so its financial information is available in its annual reports, financial statements, and other regulatory filings. These documents would detail the company's revenue, profits, expenses, and any financing activities. However, funding received would not typically be quantified as a single figure but rather broken down into various sources such as revenue from operations, debt issuance, or equity sales.
+  *As for the specific amount of funding ExxonMobil has received, it's difficult to provide an exact figure without more context. ExxonMobil is a publicly traded company, so its financial information is available in its annual reports, financial statements, and other regulatory filings. These documents would detail the company's revenue, profits, expenses, and any financing activities. However, funding received would not typically be quantified as a single figure but rather broken down into various sources such as revenue from operations, debt issuance, or equity sales.
 
 ## Business Activities
 
@@ -90,7 +90,7 @@ ExxonMobil Core metrics for measuring success in the industry include production
 ExxonMobil remains a significant player in the oil and gas industry, but its performance relative to competitors is mixed across various aspects:
 
 Financial Performance:
-Historically, ExxonMobil has been a leader in terms of revenue and profitability, but recent years have seen some challenges impacting its financial metrics compared to competitors.
+Historically, ExxonMobil has been a leader in terms of revenue and profitability, but recent years have seen some challenges impacting its financial metrics compared to competitors. But, According to the ExxonMobil 2021 PDF annual repor, the company made just over $23 billion in net income on $276.7 billion revenue. and according to the same report, ExxonMobil employs 64,000 people. According to Google Finance, the company is traded on the NYSE (stock symbol: XOM) with a market capof  $420.1 billion.
 
 Production and Reserves:
 ExxonMobil typically ranks among the top companies globally in production and reserves, but competitors like Shell, Chevron, BP, and Total Energies also have substantial capacities.
@@ -105,7 +105,7 @@ ExxonMobil faces scrutiny for its environmental practices, while competitors lik
 ## Recommendations
 
 * If you were to advise ExxonMobil, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!).
-Based on the increasing emphasis on renewable energy and sustainability, ExxonMobil could consider expanding its portfolio to include more investments in renewable energy sources such as wind, solar, and biofuels. 
+*Based on the increasing emphasis on renewable energy and sustainability, ExxonMobil could consider expanding its portfolio to include more investments in renewable energy sources such as wind, solar, and biofuels. 
 
 * Why do you think that offering this product or service would benefit ExxonMobil?
 It will diversify ExxonMobil revenue streams and align with evolving consumer preferences and regulatory trends towards cleaner energy.
@@ -118,3 +118,6 @@ They are appropriate as they would position ExxonMobil to capture opportunities 
 
 [1] https://chat.openai.com/
 [2] https://investor.exxonmobil.com/news-events/press-releases/detail/1162/exxonmobil-announces-first-quarter-2024-results
+[3] https://corporate.exxonmobil.com/
+[4] https://www.google.com/finance/quote/XOM:NYSE?hl=en
+[5] https://en.wikipedia.org/wiki/ExxonMobil
