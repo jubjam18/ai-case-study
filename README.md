@@ -39,15 +39,15 @@ ExxonMobil's competitive advantage lies in its extensive experience, large-scale
 * Which technologies are ExxonMobil currently using, and how are they implementing them? (This may take a little bit of sleuthin&mdash; you may want to search the company’s engineering blog or use sites like Stack share to find this information.)
 ExxonMobil utilizes a range of technologies across its operations, including advanced analytics, machine learning, IoT sensors, and automation systems to optimize processes, improve efficiency, and reduce operational risks.
 
-ExxonMobil employs a diverse array of technologies across its operations to enhance efficiency, safety, and sustainability. ExxonMobil's strategic use of technology enhances its competitive advantage, fosters operational excellence, and positions the company for long-term success in the dynamic energy industry landscape.
+# ExxonMobil employs a diverse array of technologies across its operations to enhance efficiency, safety, and sustainability. ExxonMobil's strategic use of technology enhances its competitive advantage, fosters operational excellence, and positions the company for long-term success in the dynamic energy industry landscape.
 
-### Here's a summary of the key technologies it utilizes and how they are implemented:
+Here's a summary of the key technologies it utilizes and how they are implemented:
 
 * Advanced Seismic Imaging:
 ExxonMobil utilizes advanced 3D and 4D seismic imaging technologies, to identify and evaluate potential hydrocarbon reserves beneath the Earth's surface. These technologies enable more accurate geological mapping and reservoir characterization; improving the success rate of exploration activities.
 
 * Drilling Technologies: 
-In drilling operations, ExxonMobil implements advanced techniques such as directional drilling and hydraulic fracturing (fracking) to access oil and gas reservoirs more effectively. These technologies allow for precise well placement and enhanced recovery rates, optimizing production levels.
+In drilling operations, ExxonMobil implements advanced techniques such as directional drilling and hydraulic fracturing (fracking) to access oil and gas reservoirs more effectively. These technologies allow for precise well placement and enhanced recovery rates, optimizing production levels. In both Predictive maintenance and Expediting well development, ExxonMobil expedites the oil analysis process and reduces clients’ labor costs using proprietary laboratory software combined with machine learning; and also ExxonMobil uses AI to integrate data silos, enabling the faster development of oil wells.
 
 * Refining Process Optimization:
 Within refining facilities, ExxonMobil employs sophisticated process control systems and optimization algorithms to maximize yields, minimize energy consumption, and produce higher-quality petroleum products. Catalyst technologies are also utilized to improve the efficiency of refining processes, reducing environmental impact.
