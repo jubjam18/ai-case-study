@@ -1,13 +1,11 @@
 # ai-case-study
 AI Bootcamp first case study
-# TITLE: ExxonMobil AI
+# ExxonMobil AI
 
 ## Overview and Origin of ExxonMobil
 Exxon Corporation was founded by John D. Rockefeller and his associates precisely in 1882 under the Standard Oil Company of New Jersey, while Mobil Corporation was founded in 1911 as the Standard Oil Company of New York by the Standard Oil Company. However, ExxonMobil was formed through Exxon Corporation and Mobil Corporation merger. [1] [5] 
 
-* Name of company: EXXONMOBIL
-
-* When was the ExxonMobil incorporated? It was incorporated on November 30, 1999.
+* When was ExxonMobil incorporated? It was incorporated on November 30, 1999.
   ExxonMobil traces its roots to Vacuum Oil Company, founded in 1866. Vacuum Oil later was acquired by Standard Oil in 1879, divested from Standard in 1911 with its breakup, and merged by the Standard Oil Company of New York, later known as Mobil, in 1931. After the 1911 breakup, Standard Oil continued to exist through its New Jersey subsidiary, sometimes shortened to Jersey Standard, and retained the Standard Oil name in much of the eastern United States. Jersey Standard grew by acquiring Humble Oil in the 1930s and became the dominant oil company on the world stage. The company's lack of ownership over the Standard Oil name across the United States, however, prompted a name change to unify all of its brands under one name, choosing to name itself Exxon in 1972 over continuing to use three distinct brands of Esso, Enco, and Humble.[5]
 
 * Who are the founders of the company? John D. Rockefeller founded ExxonMobil.
@@ -41,7 +39,7 @@ ExxonMobil utilizes a range of technologies across its operations, including adv
 
 ExxonMobil employs a diverse array of technologies across its operations to enhance efficiency, safety, and sustainability. ExxonMobil's strategic use of technology enhances its competitive advantage, fosters operational excellence, and positions the company for long-term success in the dynamic energy industry landscape.
 
-Here's a summary of the key technologies it utilizes and how they are implemented:
+# Here's a summary of the key technologies it utilizes and how they are implemented:
 
 * Advanced Seismic Imaging:
 ExxonMobil utilizes advanced 3D and 4D seismic imaging technologies, to identify and evaluate potential hydrocarbon reserves beneath the Earth's surface. These technologies enable more accurate geological mapping and reservoir characterization; improving the success rate of exploration activities. [1] [3]
